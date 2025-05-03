@@ -33,8 +33,8 @@ You'll need valid API keys from:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/job-search-agent.git
-cd job-search-agent
+git clone https://github.com/bl4rr0w/motia-examples.git
+cd examples/job-search-agent
 ```
 
 2. Install dependencies:
