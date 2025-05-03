@@ -1,0 +1,30 @@
+{
+  "job-search-flow": {
+    "steps/fetchJobs.step.ts": {
+      "x": 396.5,
+      "y": 256
+    },
+    "steps/generateJobsSummary.step.ts": {
+      "x": 351.5,
+      "y": 432
+    },
+    "steps/getJobSummary.step.ts": {
+      "x": 0,
+      "y": 10
+    },
+    "steps/searchJobs.step.ts": {
+      "x": 297,
+      "y": 0
+    },
+    "steps/storeJobSummary.step.ts": {
+      "x": 368,
+      "y": 608
+    }
+  },
+  "direct-search-flow": {
+    "steps/directJobSearch.step.ts": {
+      "x": -9.5,
+      "y": -134
+    }
+  }
+}
